@@ -365,7 +365,7 @@ The <a href="https://en.wikipedia.org/wiki/Voynich_manuscript">Voynich Manuscrip
 <a name="page-example"></a><a name="1.4."></a>
 ### [1.4.](#page-example) Example 1: graph for page f2v
 
-  The graphs for single pages contain frequently used word pairs like &lt;daiin&gt;/&lt;aiin&gt; or &lt;chor&gt;/&lt;shor&gt;. For instance, on page <a href="https://www.jasondavies.com/voynich/#f2v/">f2v</a> the word pairs &lt;chol&gt;/&lt;chor&gt; are similar to each other.
+  The graphs for single pages contain frequently used word pairs like &lt;daiin&gt;/&lt;aiin&gt; or &lt;chor&gt;/&lt;shor&gt;. For instance, on page <a href="https://www.jasondavies.com/voynich/#f2v/">f2v</a> the word pair &lt;chol&gt;/&lt;chor&gt; is similar to each other.
 
   [![f2v](graphs/VoynichQuire/quire01/f2v.small.png)](graphs/VoynichQuire/quire01/f2v.png)
 
@@ -378,11 +378,11 @@ The <a href="https://en.wikipedia.org/wiki/Voynich_manuscript">Voynich Manuscrip
 <a name="page-example2"></a><a name="1.5."></a>
 ### [1.5.](#page-example2) Example 2: graph for page f52r
 
-   On some pages even networks of four or more similar words stand out. For instance, on page <a href="https://www.jasondavies.com/voynich/#f52r/">f52r</a> the word &lt;oty&gt;, &lt;oky&gt;, &lt;qoky&gt;, and &lt;qoty&gt; are similar to each other.
+   On some pages even networks of four or more similar words stand out. For instance, on page <a href="https://www.jasondavies.com/voynich/#f52r/">f52r</a> the words &lt;oty&gt;, &lt;oky&gt;, &lt;qoky&gt;, and &lt;qoty&gt; are similar to each other.
 
   [![f52r](graphs/VoynichQuire/quire07/f52r.small.png)](graphs/VoynichQuire/quire07/f52r.png)
 
-  Again, word tokens with high structural similarity appear preferably in close vicinity of each other. For instance the tokens &lt;<img src="https://img.shields.io/badge/qoky-DDBBEE.svg?style=flat" alt="qoky" />&gt; and &lt;<img src="https://img.shields.io/badge/qoty-CC99FF.svg?style=flat" alt="qoty" />&gt; occur above each other and in the same way &lt;<img src="https://img.shields.io/badge/oty-8E4585.svg?style=flat" alt="oty"/>&gt; is switching with &lt;<img src="https://img.shields.io/badge/oky-cc8899.svg?style=flat" alt="oky" />&gt;.
+  Again, word tokens with high structural similarity appear preferably in close vicinity of each other. For instance, the tokens &lt;<img src="https://img.shields.io/badge/qoky-DDBBEE.svg?style=flat" alt="qoky" />&gt; and &lt;<img src="https://img.shields.io/badge/qoty-CC99FF.svg?style=flat" alt="qoty" />&gt; occur above each other and in the same way &lt;<img src="https://img.shields.io/badge/oty-8E4585.svg?style=flat" alt="oty"/>&gt; is switching with &lt;<img src="https://img.shields.io/badge/oky-cc8899.svg?style=flat" alt="oky" />&gt;.
 
   ![f52r.text.png](graphs/VoynichQuire/quire07/f52r.text.png)
 
