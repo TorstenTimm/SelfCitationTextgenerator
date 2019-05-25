@@ -447,10 +447,6 @@ public class Config {
      */
     public void saveGeneratedText(List<String> generatedText) {
 
-        String statsString = null;
-        String randomWalkString = null;
-        String lengthDistributionString = null;
-
         System.out.print(statistics.vmsCountAsString());
 
         StringBuilder sb = new StringBuilder();
@@ -463,14 +459,6 @@ public class Config {
         sb.append("Line count: ").append(generatedText.size()).append(Constants.ENTER);
         sb.append(statistics.vmsCountAsString());
         sb.append(statistics.toString()).append(Constants.ENTER);
-        if (statsString != null) {
-            sb.append(statsString);
-        }
-        if (randomWalkString != null) {
-            sb.append(Constants.ENTER);
-
-            sb.append(randomWalkString);
-        }
 
         // build filename
         String fileName = StringUtil.substitute(filePattern, "{" + saveDatePattern + "}", StringUtil.dateAsString(saveDatePattern));
