@@ -57,3 +57,31 @@ Frequency of words similar to &lt;chedy&gt; in Currier B:
 |  **-y**    | shey (193)  | chey (238)  | cheey (122) | sheey (92)  |
 |  **-dy**   | shedy (401) | chedy (470) | cheedy (52) | sheedy (78) |
 |  **-ody**  | sheody (25) | cheody (46) | cheeody (8) | sheeody (0) |
+
+## ﻿<p align='center'>III. Shift from &lt;chol&gt;/&lt;chor&gt; to &lt;chedy&gt;/&lt;shedy&gt;
+
+The following two tables demonstrate the shift from &lt;chol&gt;/&lt;chor&gt; via &lt;cheol&gt;/&lt;cheor&gt;, &lt;cheo&gt;/&lt;sheo&gt;, &lt;chey&gt;/&lt;shey&gt; to &lt;chedy&gt;/&lt;shedy&gt;. The result of this shift is a "gradual evolution of a single system from state A to state B" (<a href="https://doi.org/10.1080/01611194.2019.1596999">Timm & Schinner</a>, p. 7).
+
+The four most frequent 'ch/sh'-word types for different sections:
+
+|                 | 1nd        | 2nd         | 3rd        | 4th        | word count |
+|:---------------:|:---------- |:----------- |:---------- |:---------- | ----------:|
+|  **Herbal (A)** | chol (228) | chor (155)  | shol (104) | sho (96)   | 8,087 |
+|  **Pharma (A)** | chol (45)  | cheol (40)  | chor (24)  | cheor (24) | 2,529 |
+|  **Astro**      | shey  (7)  | chol (6)    | cheo (5)   | cheey (4)  | 2,136 |
+|  **Cosmo**      | chedy (24) | chey (20)   | chol (19)  | chdy (17)  | 2,691 |
+|  **Herbal (B)** | chedy (62) | chdy (53)   | shedy (35) | chkchy (35) | 3,233 |
+|  **Stars (B)**  | chedy (190) | chey (123) | shedy (113) | shey (84) | 10,673 |
+|  **Biological (B)** | shedy (247) | chedy (210) | shey (99) | chey (94) | 6,911 |
+
+The most frequent words occur with the following frequencies:
+
+|                 | chol   | chor  | cheol | cheo  | chey  | shey  | chdy  | chedy | shedy | word count |
+|:---------------:| ------:| -----:| -----:| -----:| -----:| -----:| -----:| -----:| -----:| ----------:|
+|  **Herbal (A)** | 228    | 155   | 28    | 14    | 55    | 40    | 7     | 1     |       | 8,087 |
+|  **Pharma (A)** | 45     | 24    | 40    | 11    | 21    | 19    | 1     | 1     | 1     | 2,529 |
+|  **Astro**      | 6      | 2     | 2     | 5     | 2     | 7     | 1     | 4     |       | 2,136 |
+|  **Cosmo**      | 19     | 8     | 5     | 2     | 20    | 16    | 17    | 24    | 17    | 2,691 |
+|  **Herbal (B)** | 13     | 6     | 6     | 1     | 20    | 6     | 53    | 62    | 35    | 3,233 |
+|  **Stars (B)**  | 62     | 19    | 52    | 30    | 123   | 84    | 40    | 190   | 113   | 10,673 |
+|  **Biological (B)** | 14 | 1     | 29    |       | 94    | 99    | 23    | 210   | 247   | 6,911 |
